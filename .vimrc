@@ -3,7 +3,7 @@ filetype off
 
 source ~/.vim/bundles.vim
 
-for f in split(glob('~/.vim/settings/*.vim), '\n')
+for f in split(glob('~/.vim/settings/*.vim'), '\n')
   exe 'source' f
 endfor
 
