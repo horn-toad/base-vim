@@ -16,7 +16,7 @@ then
   mv ~/_vimrc ~/_vimrc.old.$current_time
 fi
 
-git clone https://github.com/jlgreen/ht-vim.git ~/.vim
+git clone https://github.com/jlgreen/base-vim.git ~/.vim
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/vundle
 
 ln -sf ~/.vim/.vimrc
