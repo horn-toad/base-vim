@@ -10,6 +10,7 @@ Plugin 'Tabular'
 Plugin 'Gundo'
 Plugin 'SuperTab'
 
+Plugin 'bling/vim-airline'
 Plugin 'altercation/vim-colors-solarized'
 
 call vundle#end()
