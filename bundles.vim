@@ -10,6 +10,7 @@ Plugin 'Tabular'
 Plugin 'Gundo'
 Plugin 'SuperTab'
 
+Plugin 'scrooloose/nerdtree'
 Plugin 'bling/vim-airline'
 Plugin 'altercation/vim-colors-solarized'
 
